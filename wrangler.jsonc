@@ -1,5 +1,6 @@
 {
-	"name": "gpev2",
-	"compatibility_date": "2026-01-30",
-	"main": "dist/index.cjs"
-}
+	    "name": "worker-name",
+	    "compatibility_date": "2026-01-30",
+	    "assets": {
+	      "directory": "/dist/index.cjs"
+	    }}
