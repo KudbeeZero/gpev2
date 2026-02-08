@@ -1,5 +1,6 @@
 {
 	"name": "growmain",
 	"compatibility_date": "2026-01-30",
+	"compatibility_flags": ["nodejs_compat"],
 	"main": "dist/index.cjs"
 }
